@@ -1,0 +1,75 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><html>
+<head>
+	<link rel="StyleSheet" href="stylePracticePage.css" type="text/css" />
+	<!--Title that display on the tab-->
+	<title>Bookology</title>
+	<!--content-->
+</head>
+
+
+<body>
+<!--Title of the page-->
+<h1 class="auto-style1">D'Miria's Book List</h1>
+
+
+
+<div id="menu">
+<!-- A div that includes the menu on the right--> 
+<ul>
+<!--Links in the beginning of the page that link to the book itself-->
+<li><a href="#DarkestPowers">The Darkest Powers</a></li>
+<li><a href="#JustListen">Just Listen</a></li>
+<li><a href="#Lux">A Lux Series</a></li>
+<li><a href="#Mediator">The Mediator Series</a></li>
+</ul>
+</div>
+<h2>A few of my favorite books. </h2>
+
+<!--Book information with pictures and summaries-->
+<div id="content">
+<h3><a id="DarkestPowers">The Darkest Powers Trilogy</a></h3>
+<img src="http://fc06.deviantart.net/fs70/f/2010/137/b/0/Darkest_Powers_by_WithoutName.png" width= "359" height="500">
+	<p id= "kellyinfo">The series revolves around The Edison Group, a team of supernatural scientists, and the subjects they experimented on. Armstrong divided the series into trilogies. The Summoning, The Awakening, and The Reckoning make up The Darkest Powers trilogy. The Darkest Powers trilogy is view through the eyes of Chloe Saunders, a fifteen-year-old necromancer, as she and her friends escape The Edison Group.</p>
+
+<hr>
+<!--Book information with pictures and summaries-->
+<h3><a id="JustListen">Just Listen</a></h3>
+<img src="http://chicdarling.com/wp-content/uploads/2012/09/Review-of-Just-Listen.png" width="350" height="500">
+	<p id = "desseninfo">Annabel Greene is a girl who has it all - at least, that's how it seems on TV commercials. Annabel's life is far from perfect. Her friendship with her best friend Sophie ended bitterly, leaving her alone and friendless at the beginning of a new school year. Her sister Whitney's eating disorder is weighing down the entire family, and Annabel fears speaking out about her past and her lack of enthusiasm for modeling. In the midst of her isolation, she meets Owen - a music obsessed, intense classmate who, after taking an Anger Management class, is determined to tell the truth. With his help, Annabel may start facing her fears - and more importantly, speaking the truth herself.</p>
+
+<hr>
+<!--Book information with pictures and summaries-->
+<h3><a id="Lux">A Lux Series</a></h3>
+<!--Book image-->
+<img src="http://www.jenniferarmentrout.com/wp-content/uploads/2012/08/Obsidian_cover1600-230x345.jpg" width="338" height="500"><br>
+<a href="http://www.jenniferarmentrout.com/books/obsidian/">Jennifer Armentrout Website</a>
+	<p id = "armeninfo">The summer before her senior year of high school Katy and her mother move to West Virginia from Florida. They are trying to rebuild their lives after the death of Katy's father two years ago. Katy's mother encourages her to make friends with the kids next door that look like they are about her age. Katy immediately loathes Daemon and the way he treats her, he is just another hot guy with a bad attitude, but she immediately hits it off with Dee, Daemon's sister.</p>
+
+<hr>
+
+
+<!--Book information with pictures and summaries-->
+<h3><a id="Mediator">Mediator Series</a></h3>
+<!--Book image-->
+<img src="http://hobbitsies.net/bookcovers/mediator.jpg"width="330" height = "500"><br>
+<a href="http://www.megcabot.com/mediator/" target="_blank">Meg Cabot's Mediator Series Page</a> 
+	<p id = "cabotinfo">Suze Simon has a problem: She's been able to see and speak to ghosts all her life. Things have gotten especially bad now that her mom has remarried and Suze has three new stepbrothers...and a very sexy guy hanging out in her bedroom. Too bad the guy's been dead for a hundred and fifty years.</p>
+
+</div>
+
+
+<!-- <p>Created by D'Miria Collins</p> -->
+<!--Facebook Link-->
+<!-- <h5><a href="https://www.facebook.com/dmiria">D'Miria's Facebook</a></h5>-->
+
+<!-- DO NOT CHANGE THIS CODE !-->
+
+<!-- <p>
+ --><!-- <a href="http://validator.w3.org/check?uri=referer"><img style="border: 0;" src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional!" height="31" width="88" /></a><a 
+href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://www.w3.org/Icons/valid-css.gif" alt="Valid CSS!" /></a> -->
+<!-- </p>
+ -->
+</body>
+</html>
